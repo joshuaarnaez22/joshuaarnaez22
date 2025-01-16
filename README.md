@@ -73,9 +73,7 @@
   </picture>
   <img width="12" />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/amazonaws/white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/amazonaws/black" />
-    <img alt="AWS" height="40" width="40" src="https://cdn.simpleicons.org/amazonaws" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
   </picture>
   <img width="12" />
   <picture>
