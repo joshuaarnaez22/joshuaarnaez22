@@ -7,8 +7,8 @@
 ## 🚀 About Me
 
 - ✨ Creating bugs since 2019
-- 📚 Currently learning Python
-- 🎓 Goal: Completing my Master's degree this year
+- 🤖 Currently learning AI/ML technologies
+- 🚀 Learning server management and cloud deployment
 - 💡 Always eager to learn new technologies
 - 🌏 Based in Philippines 
 
