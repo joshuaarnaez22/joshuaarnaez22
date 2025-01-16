@@ -68,13 +68,13 @@
 ## 🤝 Connect with me
 
 <div align="center">
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:joshuaarnaez22@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/joshua-arnaez-764b60143/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://www.facebook.com/your.profile">
+  <a href="https://www.facebook.com/joshua.arnaez.5">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
   </a>
 </div>
