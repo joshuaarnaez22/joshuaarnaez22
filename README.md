@@ -35,12 +35,19 @@ I'm a software engineer from the Philippines who enjoys turning ideas into pract
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
 ### Backend & Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ### Tools
@@ -50,27 +57,48 @@ I'm a software engineer from the Philippines who enjoys turning ideas into pract
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+## 🤖 AI-Assisted Workflow
+
+<div align="center">
+
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+I use AI coding tools for exploration, implementation, debugging, refactoring, and code review—while keeping architecture and final decisions human-led.
 
 </div>
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-[![CryptoSage](https://github-readme-stats.vercel.app/api/pin/?username=joshuaarnaez22&repo=CryptoSage&theme=tokyonight&hide_border=true)](https://github.com/joshuaarnaez22/CryptoSage)
-[![HealthMind AI](https://github-readme-stats.vercel.app/api/pin/?username=joshuaarnaez22&repo=healthmind-ai&theme=tokyonight&hide_border=true)](https://github.com/joshuaarnaez22/healthmind-ai)
-[![Guild Chat](https://github-readme-stats.vercel.app/api/pin/?username=joshuaarnaez22&repo=guild-chat&theme=tokyonight&hide_border=true)](https://github.com/joshuaarnaez22/guild-chat)
-[![LMS Project](https://github-readme-stats.vercel.app/api/pin/?username=joshuaarnaez22&repo=lms-project&theme=tokyonight&hide_border=true)](https://github.com/joshuaarnaez22/lms-project)
-
-</div>
+| Project | Description | Stack |
+| --- | --- | --- |
+| [CryptoSage](https://github.com/joshuaarnaez22/CryptoSage) | AI-powered cryptocurrency intelligence and market insights | TypeScript |
+| [HealthMind AI](https://github.com/joshuaarnaez22/healthmind-ai) | An AI-powered health companion | HTML |
+| [Guild Chat](https://github.com/joshuaarnaez22/guild-chat) | A real-time community chat application | TypeScript |
+| [LMS Project](https://github.com/joshuaarnaez22/lms-project) | A learning management system | TypeScript |
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=joshuaarnaez22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Joshua's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaarnaez22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Joshua's most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuaarnaez22&theme=tokyonight" alt="Joshua's GitHub contribution summary" />
+
+<br />
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joshuaarnaez22&theme=tokyonight" alt="Joshua's GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joshuaarnaez22&theme=tokyonight" alt="Joshua's repositories by language" />
 
 <br />
 
@@ -93,3 +121,9 @@ I'm a software engineer from the Philippines who enjoys turning ideas into pract
 <div align="center">
 
 ![Contribution snake](https://raw.githubusercontent.com/joshuaarnaez22/joshuaarnaez22/output/snake.svg)
+
+<sub>Thanks for visiting—feel free to explore my repositories and connect.</sub>
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer)
