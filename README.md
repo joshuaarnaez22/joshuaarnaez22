@@ -93,9 +93,3 @@ I'm a software engineer from the Philippines who enjoys turning ideas into pract
 <div align="center">
 
 ![Contribution snake](https://raw.githubusercontent.com/joshuaarnaez22/joshuaarnaez22/output/snake.svg)
-
-<sub>Thanks for visiting—feel free to explore my repositories and connect.</sub>
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer)
